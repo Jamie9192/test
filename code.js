@@ -1,1 +1,1 @@
-console.log("LOADED")
+console.log("KOR")
